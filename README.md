@@ -14,7 +14,8 @@ Linux or MAC (due to the function to load the file works only in unix like syste
 Lions 3, Snakes 3 (If you don't respect this format, the program is not going to fail but is not going to be included in the result)
 
 The next input message should be shown "------- Please type a match using the next format (team score, team2 score) -------" and you can type 
-any record and then your need to click to type other, when your decide that your want to see the results, type :p to shown the results.
+any record (using the mentioned format), you can insert any record that your want. When your decide that your want to see the results
+type :p to shown the results.
 
                   Process the result by file
 
@@ -29,3 +30,5 @@ NOte: You can not insert more than one match by line (If you don't respect this 
 
 3.- The next input message should be shown, "------- Please type the name of the file to process (The file should be in resources folder)-------", your need to type the
 filename and then click enter and the results should be shown.
+
+Note: You can use the two example files that are in resource folder, just your need to type test.txt or test 2.txt

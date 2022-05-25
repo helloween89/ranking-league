@@ -50,7 +50,7 @@ public class processByConsole extends coreProcess {
 
         if (badLines.size() > 0) {
 
-            System.out.println("------- Bad records that were not process -------");
+            System.out.println("\n------- Bad records that were not process -------\n");
 
             for (String line : badLines) {
                 System.out.println(line + "\n");

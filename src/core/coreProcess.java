@@ -78,8 +78,9 @@ public class coreProcess {
     
         if(orderFinalResults.size()>0) {
 
+            System.out.println("\n------- ScoreBoard -------\n");
             for(teams t: orderFinalResults){
-                System.out.println(t.getTeamName()+" - "+t.getScoreTeam()+" "+constants.points+"\n");
+                System.out.println("\n"+t.getTeamName()+" - "+t.getScoreTeam()+" "+constants.points+"\n");
             }
     
             orderFinalResults.clear();

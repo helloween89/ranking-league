@@ -1,0 +1,7 @@
+Necaxa 4, Atlas 2
+Cruz Azul 2, Necaxa 2 u
+Puebla 1, Cosala 1
+Aguilas del america 20, Pumas de la unam 10
+Tigres 30, Aguilas del america 10
+Cruz Azul 2, Atlas 2
+Puebla 1, Cosala 1 
